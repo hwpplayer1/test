@@ -21,4 +21,4 @@ Test is passed...
 
 # Current Status
 
-I'm working on Lua programming language startingfrom 6 May 2023 19:00 
+I'm working on Lua programming language starting from 6 May 2023 19:00 
