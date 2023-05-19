@@ -30,3 +30,7 @@ My Twitter Account is MertGor, I started running the Twitter Terminal Client rai
 # "Running Ubuntu 22.04 LTS"
 
 I started running Ubuntu 22.04 LTS
+
+# Commits
+
+As you know commits have shades of green color. And there is a number of commits in profile. Can I achieve 10000 commits in one year ? I can ! We can !
