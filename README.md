@@ -2,6 +2,7 @@
 
 This is a test repository for ssh and gpg signed commit.
 
+Another test
 
 Test is passed...
 
